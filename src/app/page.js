@@ -10,7 +10,7 @@ export default function Home({ }) {
         <Radius key={index} className={size} />
       ))}
       <div className="size-full bg-[#F3F4F6] flex justify-center items-center" >
-
+        hello world
       </div>
       <div className="size-full bg-[#0F141E] flex justify-center items-center" >
         <Input></Input>
